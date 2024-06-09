@@ -148,8 +148,11 @@ To adhere to ethical standards in their work through:
 
 some ethical issues that software engineers might face are:
 *Privacy and data security
+
 *Discrimination
+
 *Trabsparency and accountability
+
 *Social impact and accessibility
 
 Submission Guidelines:
